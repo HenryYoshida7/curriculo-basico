@@ -1,0 +1,40 @@
+header{
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+}
+.container{
+    display: inline-block;
+}
+.abc{
+    position: relative;
+    bottom: 70px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 15px 15px 8px 15px;
+}
+.sobre{
+   display: inline-block;
+}
+.SobreMim{
+    height: 350px; 
+    width: 850px;
+   overflow: scroll; 
+   padding: 20px;
+}
+.hab{
+    padding-left: 77px;
+    position: relative;
+    bottom: 270px;
+}
+footer{
+    border: 8px solid black;
+    background-color: black;
+    color: white;
+}
+.rodape{
+    text-align: center;
+}
+
